@@ -1,0 +1,19 @@
+{
+    "name": "ravisorg/bincodesphp",
+    "description": "A very simple PHP client for the bincodes.com API",
+    "license": "MIT",
+    "keywords": [],
+    "authors": [
+        {
+            "name": "Travis Richardson",
+            "email": "travis@ravis.org"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "ravisorg\\BINCodesPHP\\": "src"
+        }
+    }
+}
